@@ -26,9 +26,14 @@ Our applications have itens of the component below:
 * Template module ICMP Ping:status
 * System
 
+
+ 
+
+
+
 ## Author
 
-Marcos Sousa and Tadeu Ibns
+Marcos Sousa
 
 ## Macros used
 
@@ -112,3 +117,4 @@ There are no discovery rules in this template.
 ## Triggers
 
 There are no triggers in this template.
+
