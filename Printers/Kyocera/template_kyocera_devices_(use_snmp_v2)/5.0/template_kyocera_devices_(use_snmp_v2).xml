@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<zabbix_export><version>5.0</version><date>2021-11-21T21:33:38Z</date><groups><group><name>Устройства Киосера v2-2022</name></group></groups><templates><template><template>KyoceraLiptonsV2</template><name>Принтеры Киосера v2-2022</name><description>## Overview
+<zabbix_export><version>5.0</version><date>2021-11-21T21:33:38Z</date><groups><group><name>Устройства Киосера v2</name></group></groups><templates><template><template>KyoceraLiptonsV2</template><name>Принтеры Киосера v2</name><description>## Overview
 
 В данном шаблоне собраны:
 
